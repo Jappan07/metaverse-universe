@@ -17,6 +17,6 @@ run live-server
 </pre>
 
 ## Deployed here
-<a href="https://jappan07.github.io/Metaverse-Game/" target="/blank">Link</a>
+<a href="https://jappan07.github.io/metaverse-universe/" target="/blank">Link</a>
 
 #

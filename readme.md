@@ -17,6 +17,6 @@ run live-server
 </pre>
 
 ## Deployed here
-<a href="https://jappan07.github.io/metaverse-universe/" target="/blank">Link</a>
+<a href="https://metaverse-universe.vercel.app" target="/blank">Link</a>
 
 #

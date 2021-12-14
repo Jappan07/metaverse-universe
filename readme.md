@@ -11,7 +11,7 @@
 
 ## Cloning the project
 <pre>
-git clone https://github.com/Jappan07/Metaverse-Game.git
+git clone https://github.com/Jappan07/metaverse-universe.git
 cd Metaverse-Game
 run live-server
 </pre>
